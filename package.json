@@ -110,7 +110,7 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.30.2",
     "babel-cli": "6.8.0",
     "babel-eslint": "^7.2.3",
     "babel-istanbul": "^0.12.2",
