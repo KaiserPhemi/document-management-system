@@ -20,5 +20,7 @@ describe('FooterPage ', () => {
     container = component.find(Footer);
     expect(component.length).toBe(1);
     expect(container.length).toBe(0);
+    expect('.button').toExist();
+    
   });
 });
